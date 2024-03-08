@@ -2,11 +2,11 @@ JaeHwan Lee/README.md
 
 [Tech blog](링크) [LinkedIn](링크) [Gmail](링크)
 
-## DaeHyeon Jeon
+## JaeHwan Lee
 
 * 💻 Frontend Developer
 * 💻 I'm interested in Javascript, React, Typescript
-* [RESUME](링크)
+* [RESUME](https://www.notion.so/JaeHwan-Lee-d1588f64126f4b7aa249851a09553e29)
 
 ### Tech Stack
 
