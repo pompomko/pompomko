@@ -18,8 +18,8 @@ JaeHwan Lee/README.md
 
 ### Activity
 
-* 내일배움캠프 React 6기 (23.05 ~ 23.09)
+* 내일배움캠프 React 3기 (23.10 ~ 24.02)
 
 ### Projects
 
-* 청각을 그려요, 청구(Web) - 사용자의 청각증 확인을 통주한 통신서비스 제공 서비스
+* 
