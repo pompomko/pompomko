@@ -13,9 +13,7 @@ JaeHwan Lee/README.md
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black) 
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=Supabase&logoColor=black) 
 
-### Career
 
-* Mtra | System Developer (21.10 ~ 23.03)
 
 ### Activity
 
@@ -23,4 +21,4 @@ JaeHwan Lee/README.md
 
 ### Projects
 
-* 
+* [오늘의 게임(Web)](https://todaygames-5mok.vercel.app/)
