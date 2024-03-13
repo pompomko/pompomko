@@ -15,7 +15,7 @@ JaeHwan Lee/README.md
 
 ### Tools
 
-![git](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=black) ![github](https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=black) ![notion](https://img.shields.io/badge/-notion-000000?style=flat-square&logo=notion&logoColor=black) 
+![git](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=black) ![github](https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=black) ![notion](https://img.shields.io/badge/-notion-000000?style=flat-square&logo=notion&logoColor=white) 
 
 
 
