@@ -26,5 +26,5 @@ JaeHwan Lee/README.md
 
 📚 Projects
 
-* [오늘의 게임(Web)](https://todaygames-5mok.vercel.app/)
+* [오늘의 게임(Web)]([https://todaygames-5mok.vercel.app/](https://github.com/final-project-09a/todaygames)https://github.com/final-project-09a/todaygames)
 
