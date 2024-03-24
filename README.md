@@ -1,6 +1,5 @@
 JaeHwan Lee/README.md
 
-[Tech blog](링크) [LinkedIn](링크) [Gmail](링크)
 
 ## JaeHwan Lee
 
